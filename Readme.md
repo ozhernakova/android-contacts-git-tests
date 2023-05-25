@@ -1,1 +1,1 @@
-// dev branch for Y.Practicum
+// android studio with github trials
